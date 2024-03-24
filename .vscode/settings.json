@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Geospatial Creator.sln"
+    "dotnet.defaultSolution": "Geospatial-Creator-AR-WORLD.sln"
 }
